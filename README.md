@@ -8,7 +8,7 @@ Apasionado por resolver problemas reales con código limpio y experiencias de us
 ## 📑 Índice
 
 - [Sobre mí](#sobre-mí)  
-- [Proyectos destacados](#[proyectos-destacados](https://github.com/Neubady0/Desarrollo-de-aplicaciones-web.git))  
+- [Proyectos destacados](https://github.com/Neubady0/Desarrollo-de-aplicaciones-web.git)
 - [Tecnologías](#tecnologías)  
 - [Contacto](#contacto)  
 
